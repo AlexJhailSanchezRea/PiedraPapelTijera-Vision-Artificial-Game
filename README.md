@@ -12,7 +12,7 @@ Una implementación avanzada del clásico juego Piedra, Papel o Tijera utilizand
 ### Desarrollador
 **Alex Jhail Sanchez Rea**  
 Estudiante de Ingeniería de Sistemas en Universidad UTEPSA  
-[LinkedIn](https://www.linkedin.com/in/alex-jhail-sanchez-rea-80637a184/) | [GitHub](https://github.com/TU_USUARIO_GITHUB)
+[LinkedIn](https://www.linkedin.com/in/alex-jhail-sanchez-rea-80637a184/) | [GitHub](https://github.com/AlexJhailSanchezRea/PiedraPapelTijera-Vision-Artificial-Game)
 
 ## Implementación Técnica 🔧
 
