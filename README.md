@@ -175,7 +175,7 @@ python Juego.py
   </tr>
   <tr>
     <td>
-      <img src="imagenes/screenshots/inicio.png" width="800px" alt="Pantalla de Inicio"/>
+      <img src="Imagenes/screenshots/inicio.png" width="800px" alt="Pantalla de Inicio"/>
     </td>
   </tr>
 </table>
@@ -191,13 +191,13 @@ python Juego.py
   </tr>
   <tr>
     <td>
-      <img src="imagenes/screenshots/empieza.png" width="350px" alt="Conteo 3"/>
+      <img src="Imagenes/screenshots/empieza.png" width="350px" alt="Conteo 3"/>
     </td>
     <td>
-      <img src="imagenes/screenshots/empieza1.png" width="350px" alt="Conteo 2"/>
+      <img src="Imagenes/screenshots/empieza1.png" width="350px" alt="Conteo 2"/>
     </td>
     <td>
-      <img src="imagenes/screenshots/empieza2.png" width="350px" alt="Conteo 1"/>
+      <img src="Imagenes/screenshots/empieza2.png" width="350px" alt="Conteo 1"/>
     </td>
   </tr>
 </table>
@@ -213,13 +213,13 @@ python Juego.py
   </tr>
   <tr>
     <td>
-      <img src="imagenes/screenshots/ganaia.png" width="350px" alt="Gana IA"/>
+      <img src="Imagenes/screenshots/ganaia.png" width="350px" alt="Gana IA"/>
     </td>
     <td>
-      <img src="imagenes/screenshots/empate.png" width="350px" alt="Empate"/>
+      <img src="Imagenes/screenshots/empate.png" width="350px" alt="Empate"/>
     </td>
     <td>
-      <img src="imagenes/screenshots/ganajugador.png" width="350px" alt="Gana Jugador"/>
+      <img src="Imagenes/screenshots/ganajugador.png" width="350px" alt="Gana Jugador"/>
     </td>
   </tr>
 </table>
